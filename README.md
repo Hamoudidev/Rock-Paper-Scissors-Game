@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Game
+# Rock-Paper-Scissors Game
  - 🔢 Equivalent Programming Problems in This Project
    - Generating Random Numbers.
    - Handling User Input.
