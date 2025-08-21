@@ -1,3 +1,16 @@
 # Rock-Paper-Scissors-Game
- - Equivalent Programming Problems in This Project
-   - t
+ - 🔢 Equivalent Programming Problems in This Project
+   - Generating Random Numbers.
+   - Handling User Input.
+   - Enums, Structure, Looping using.
+   - Conditional Logic.
+   - Organized Functions.
+   - Gnerating Computer Choice.
+   - Comparing Values.
+   - Game Loop & Replay Feautre.
+   - Simple & Clear Screen.
+   - Scores System.
+   - Switch-Case for Decision Making
+   - Simple AI ( Computer Player )
+ - 📊 Final Estimation
+   - This Rock-Paper-Scissors project covers at least 20 distinct programming problems that are commonly found in beginner-to-intermediate C++ exercises.
