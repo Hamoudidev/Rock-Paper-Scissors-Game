@@ -15,3 +15,7 @@
    - Simple AI ( Computer Player )
  - 📊 Final Estimation
    - This Rock-Paper-Scissors project covers at least 20 distinct programming problems that are commonly found in beginner-to-intermediate C++ exercises.
+   - Covers multiple C++ concepts in one application.
+   - Combines problem-solving skills.
+   - Teaches how game logic develop.
+   - Easy to expand in future.
