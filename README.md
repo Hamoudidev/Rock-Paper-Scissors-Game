@@ -17,5 +17,5 @@
    - This Rock-Paper-Scissors project covers at least 20 distinct programming problems that are commonly found in beginner-to-intermediate C++ exercises.
    - Covers multiple C++ concepts in one application.
    - Combines problem-solving skills.
-   - Teaches how game logic develop.
+   - Teaches how game logic develop (AI-generated questions, user interaction, scoring)..
    - Easy to expand in future.
