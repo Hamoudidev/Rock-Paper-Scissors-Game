@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors-Game
-Rock Paper Scissors Game using cpp.
+ - Equivalent Programming Problems in This Project
+   - t
