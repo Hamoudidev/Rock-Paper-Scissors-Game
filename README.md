@@ -9,6 +9,7 @@
    - Comparing Values.
    - Game Loop & Replay Feautre.
    - Simple & Clear Screen.
+   - Dynamic Screen after round win.
    - Scores System.
    - Switch-Case for Decision Making
    - Simple AI ( Computer Player )
