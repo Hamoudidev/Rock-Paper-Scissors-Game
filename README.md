@@ -5,11 +5,11 @@
    - Enums, Structure, Looping using.
    - Conditional Logic.
    - Organized Functions.
-   - Gnerating Computer Choice.
+   - Generating Computer Choice.
    - Comparing Values.
-   - Game Loop & Replay Feautre.
+   - Game Loop & Replay Feature.
    - Simple & Clear Screen.
-   - Dynamic Screen after round win.
+   - Dynamic Screen after each round.
    - Scores System.
    - Switch-Case for Decision Making
    - Simple AI ( Computer Player )
